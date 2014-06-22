@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## It works! Firs time on github, huh...Put comments here that give an overall description of what your
 ## functions do
 
 ## Write a short comment describing this function
